@@ -1,0 +1,17 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a node server for our pigeon chat application",
+  "main": "index.js",
+  "scripts": {
+    "watch":"nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "socket.io": "^2.4.1",
+    "socketio": "^1.0.0"
+  }
+}
