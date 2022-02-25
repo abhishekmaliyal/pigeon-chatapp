@@ -55,13 +55,13 @@ h1 {
 }
 
 .right {
-    background:rgba(148, 114, 241, 0.9);
+    background: rgba(148, 114, 241, 0.9);
     border: none;
     float: right;
     clear: both;
 }
 
-#send-container {
+#send_container {
     display: block;
     margin: auto;
     text-align: center;
@@ -72,7 +72,7 @@ h1 {
     align-items: center;
 }
 
-#messageInp {
+#messageInput {
     margin-left: 50px;
     width: 80%;
     height: 34px;
